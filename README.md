@@ -12,6 +12,7 @@ This repository contains the following files:
 - **img** - A folder with images of some trees
 - **js** - A folder with jQuery and and Bootstrap JavaScript files
 - **lab5.php** - The PHP script that you will be working on
+- **.gitignore** A file that is used to tell git to ignore certain types of files.
 
 ## Steps to Follow
 
