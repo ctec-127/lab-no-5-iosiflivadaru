@@ -1,0 +1,41 @@
+/* style.css */
+
+
+body {
+    background: #fafafa;
+    background: rgba(235, 232, 228, 1.0);
+}
+
+h3 {
+    background: #77A140;
+    color: #ffffff;
+}
+
+.card-header {
+    background: #12497F;
+    color: #ffffff;
+}
+
+.card-header a:link,
+.card-header a:visited,
+.card-header a:hover,
+.card-header a:active {
+    color: #ffffff;
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.card-body {
+    background: #4E87A0;
+    color: #ffffff;
+}
+
+.card-body p {
+    font-size: 1.25rem;
+}
+
+.jumbotron {
+    background: #4E87A0;
+    color: #ffffff;
+}
