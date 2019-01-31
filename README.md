@@ -1,5 +1,4 @@
-# CTEC 127
-## Lab No. 5 - Drive Web Page Content Using URL Query String Parameters
+# Lab No. 5 - Drive Web Page Content Using URL Query String Parameters
 
 This lab will have you clone this repository down to your computer. Once you have cloned the repo, you are to follow the instructions below.
 
