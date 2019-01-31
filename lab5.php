@@ -52,7 +52,11 @@
     </div>
 
     <div class="container-fluid mt-3">
-        <h3 class="text-white p-3 shadow">Aralia</h3>
+        <?php
+            if (isset($_GET['aralia'])) {
+                if ($_GET['aralia'] == 'yes') {
+        ?>
+        <h3 class="text-white p-3 shadow <?php echo $class; ?>">Aralia</h3>
         <div class="row mb-3">
             <div class="col-sm-12 col-md-6 col-lg-4">
                 <div class="card mt-3 mb-3 shadow">
@@ -68,7 +72,10 @@
                 </div>
             </div>
         </div>
-
+        <?php 
+                } 
+            } 
+        ?>
         <h3 class="p-3 shadow">Arborvitae</h3>
         <div class="row mb-3">
             <div class="col-sm-12 col-md-6 col-lg-4">
